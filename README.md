@@ -1,2 +1,2 @@
 # AgriScan - Leaf Disease Detector
-## AgriScan is an leaf disease detector that combines cutting-edge web technologies with a user-friendly interface to help identify plant diseases quickly and accurately. By simply uploading an image of a leaf, users can receive instant diagnosis and treatment recommendations
+### AgriScan is an leaf disease detector that combines cutting-edge web technologies with a user-friendly interface to help identify plant diseases quickly and accurately. By simply uploading an image of a leaf, users can receive instant diagnosis and treatment recommendations
